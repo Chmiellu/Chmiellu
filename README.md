@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Tomasz Chmiel.</h1>
-<h3 align="center">Third-year Computer Science student at the University of Katowice.</h3>
+<h1 align="center">Hi, I'm Tomasz Chmiel 👋</h1>
+<h2 align="center">Third-year Computer Science student at the University of Katowice.</h2>
 <img align="right" alt="Coding" width=450" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chmiellu&label=Profile%20views&color=0e75b6&style=flat" alt="chmiellu" /> </p>
 
